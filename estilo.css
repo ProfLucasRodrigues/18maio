@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ffffff; /* Cor de fundo opcional */
+}
+
+.container {
+    text-align: center;
+    margin-top: 160px; /* Margem superior para separar do topo */
+}
+
+.titulo{
+    font-size: 30px; /* Tamanho da fonte */
+    color: #333; /* Cor do texto */
+    font-weight: bold; /* Estilo da fonte */
+    margin-top: 40px; /* Margem superior para separar do topo */
+}
